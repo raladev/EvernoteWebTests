@@ -1,0 +1,24 @@
+{
+   "simple_accounts":[
+      {
+         "login":"login@mail.com",
+         "password":"pwd"
+      }
+   ,
+      {
+         "login":"login2@mail.com",
+         "password":"pwd2"
+      }
+   ],
+   "google_accounts":[
+      {
+         "login":"login@gmail.com",
+         "password":"pwd3"
+      }
+   ,
+      {
+         "login":"login3@gmail.com",
+         "password":"pwd4"
+      }
+   ]
+}
