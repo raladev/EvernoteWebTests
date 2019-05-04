@@ -7,9 +7,9 @@ Stack:
 
 To Do List:
 - refactor
--- time.sleep
--- too much creations of objects
--- test data managment
--- scrolls and note finding
+- - time.sleep
+- - too much creations of objects
+- - test data managment
+- - scrolls and note finding
 - xdist + TestContainers?
 - CI Example
